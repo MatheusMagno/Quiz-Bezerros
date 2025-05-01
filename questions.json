@@ -1,0 +1,124 @@
+[
+  {
+    "question": "Qual é uma das festas tradicionais mais famosas de Bezerros?",
+    "answers": [
+      { "id": 1, "text": "Carnaval de Olinda", "correct": false },
+      {
+        "id": 2,
+        "text": "Festival de Inverno de Garanhuns ",
+        "correct": false
+      },
+      {
+        "id": 3,
+        "text": "Carnaval de Bezerros (e os Papangus)",
+        "correct": true
+      },
+      { "id": 4, "text": "São João de Caruaru", "correct": false }
+    ]
+  },
+  {
+    "question": "Quem são os Papangus, figuras típicas do Carnaval de Bezerros?",
+    "answers": [
+      { "id": 1, "text": "Dançarinos de frevo", "correct": false },
+      {
+        "id": 2,
+        "text": "Personagens mascarados que brincam pelas ruas",
+        "correct": true
+      },
+      {
+        "id": 3,
+        "text": "Artesãos que fazem bonecos de barro",
+        "correct": false
+      },
+      { "id": 4, "text": "Músicos de banda de pífanos ", "correct": false }
+    ]
+  },
+  {
+    "question": "Bezerros é conhecida por sua forte tradição em qual tipo de arte popular?",
+    "answers": [
+      { "id": 1, "text": "Cerâmica utilitária", "correct": false },
+      { "id": 2, "text": "Escultura em mármore ", "correct": false },
+      { "id": 3, "text": "Pintura em azulejo", "correct": false },
+      { "id": 4, "text": "Xilogravura e cordel ", "correct": true }
+    ]
+  },
+  {
+    "question": "Qual artista popular de Bezerros ficou famoso por suas xilogravuras e ilustrações de cordel?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "J. Borges (José Francisco Borges) ",
+        "correct": true
+      },
+      { "id": 2, "text": "Mestre Vitalino", "correct": false },
+      { "id": 3, "text": "Lampião  ", "correct": false },
+      { "id": 4, "text": "Lia de Itamaracá  ", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é o prato típico da culinária de Bezerros e região?",
+    "answers": [
+      { "id": 1, "text": "Buchada de bode", "correct": true },
+      { "id": 2, "text": "Acarajé ", "correct": false },
+      { "id": 3, "text": "Moqueca capixaba ", "correct": false },
+      { "id": 4, "text": "Barreado ", "correct": false }
+    ]
+  },
+  {
+    "question": "Bezerros está localizada em qual mesorregião de Pernambuco?",
+    "answers": [
+      { "id": 1, "text": "Metropolitana do Recife", "correct": false },
+      { "id": 2, "text": "Agreste Pernambucano", "correct": true },
+      { "id": 3, "text": "Sertão do São Francisco ", "correct": false },
+      { "id": 4, "text": "Zona da Mata  ", "correct": false }
+    ]
+  },
+  {
+    "question": "Além do Carnaval, qual outra festa religiosa é importante em Bezerros?",
+    "answers": [
+      { "id": 1, "text": "Festa de Iemanjá ", "correct": false },
+      { "id": 2, "text": "Lavagem do Bonfim  ", "correct": false },
+      { "id": 3, "text": "Círio de Nazaré ", "correct": false },
+      {
+        "id": 4,
+        "text": "Festa de São José (padroeiro da cidade)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Qual é o nome do rio que banha a cidade de Bezerros?",
+    "answers": [
+      { "id": 1, "text": "Rio Ipojuca", "correct": true },
+      { "id": 2, "text": "Rio Capibaribe", "correct": false },
+      { "id": 3, "text": "Rio São Francisco", "correct": false },
+      { "id": 4, "text": "Rio Una", "correct": false }
+    ]
+  },
+  {
+    "question": "Bezerros é conhecida por abrigar um importante evento cultural relacionado à literatura popular. Qual?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Flip (Festa Literária Internacional de Paraty) ",
+        "correct": false
+      },
+      {
+        "id": 2,
+        "text": "Feira Nacional de Cultura Popular (com foco em cordel e xilogravura)",
+        "correct": true
+      },
+      { "id": 3, "text": "Bienal do Livro de São Paulo", "correct": false },
+      { "id": 4, "text": "Festival de Poesia de Recife", "correct": false }
+    ]
+  },
+  {
+    "question": "Qual é um dos apelidos carinhosos de Bezerros?",
+    "answers": [
+      { "id": 1, "text": "Terra do Frevo", "correct": false },
+      { "id": 2, "text": "Cidade do Forró", "correct": false },
+      { "id": 3, "text": "Terra dos Papangus", "correct": true },
+      { "id": 4, "text": "Capital do Maracatu", "correct": false }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url("assets/praça\ da\ bola.jpg") center/cover no-repeat fixed;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.app {
+  max-width: 600px;
+  margin: 100px auto 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.app h1 {
+  font-weight: 25px;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.question-container {
+  padding: 20px 0;
+}
+
+.question {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.answer {
+  background: #fff;
+  color: #222;
+  font-weight: 500;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #222;
+  margin: 10px 0;
+  text-align: left;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.answer:hover:not(:disabled) {
+  background: #222;
+  color: #fff;
+}
+
+.answer:disabled {
+  cursor: not-drop;
+}
+
+#next-btn {
+  background: #222;
+  color: #fff;
+  font-weight: 500;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  margin-top: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: none;
+}
+
+.correct {
+  background: #4caf50;
+  color: #fff;
+}
+.incorrect {
+  background: #f44336;
+  color: #fff;
+}
