@@ -10,7 +10,7 @@
       },
       {
         "id": 3,
-        "text": "Carnaval de Bezerros (e os Papangus)",
+        "text": "Carnaval de Bezerros e os Papangus",
         "correct": true
       },
       { "id": 4, "text": "São João de Caruaru", "correct": false }
@@ -47,7 +47,7 @@
     "answers": [
       {
         "id": 1,
-        "text": "J. Borges (José Francisco Borges) ",
+        "text": "J. Borges",
         "correct": true
       },
       { "id": 2, "text": "Mestre Vitalino", "correct": false },
@@ -81,7 +81,7 @@
       { "id": 3, "text": "Círio de Nazaré ", "correct": false },
       {
         "id": 4,
-        "text": "Festa de São José (padroeiro da cidade)",
+        "text": "Festa de São José ",
         "correct": true
       }
     ]
@@ -105,7 +105,7 @@
       },
       {
         "id": 2,
-        "text": "Feira Nacional de Cultura Popular (com foco em cordel e xilogravura)",
+        "text": "Feira Nacional de Cultura Popular ",
         "correct": true
       },
       { "id": 3, "text": "Bienal do Livro de São Paulo", "correct": false },
